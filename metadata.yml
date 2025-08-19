@@ -1,0 +1,12 @@
+---
+:id: 291365059
+:submitters:
+- :name: Nathan Vitzthum
+  :email: natevitz@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-21 05:04:18.378161000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-20 21:04:18.378161000 Z
+:status: processed
+:score: 50.0
